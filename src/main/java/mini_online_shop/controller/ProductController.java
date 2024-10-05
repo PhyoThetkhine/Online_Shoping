@@ -53,6 +53,7 @@ public class ProductController {
             List<Category> categories = categoryService.getAllCategories();
             model.addAttribute("categories", categories);
             model.addAttribute("product", new ProductBean());
+            hello 
             return "addProduct";
         } else {
             return "redirect:/";
