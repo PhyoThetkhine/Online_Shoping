@@ -8,6 +8,7 @@
     <meta name="description" content="Shop for the best products at Mini Shop" />
     <meta name="author" content="Your Name" />
     <title>Mini Shop - Home</title>
+Hello
 
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
